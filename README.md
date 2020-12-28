@@ -14,7 +14,7 @@
 
 - 🎯 My Portfolio **www.ritish.me**
 
-- ⚡ Fun fact **I love TypeScript, Dart and cats 😻**
+- ⚡ Fun fact **I Code and Xbox help me do it: General Helios2**
 
 - 🎧 I like **1244 songs accross 96 albums**. I have **169 playlists of awesome music.**
 <br><br>
