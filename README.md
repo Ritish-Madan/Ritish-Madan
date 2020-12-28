@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ritish-Madan](https://github.com/Ritish-Madan)
 
-- 💬 Ask me about **React, Flutter, Node and TypeScript**
+- 💬 Ask me about **React, Node and Data Science**
 
 - 📫 How to reach me **contact.ritish@gmail.com**
 
