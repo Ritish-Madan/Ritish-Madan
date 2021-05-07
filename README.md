@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **contact.ritish@gmail.com**
 
-- 🎯 My Portfolio **www.ritish.me**
+- 🎯 My Portfolio **www.ritish.info**
 
 - ⚡ Fun fact **I Code and Xbox help me do it: General Helios2**
 
