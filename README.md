@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3><br>
 
 
-- 🔭 I’m currently working on **some of my side projects :P**
+- 🔭 I’m currently working as **Software Engineer**
 
 - 👯 I’m looking to collaborate on **anything free and open source**
 
